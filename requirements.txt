@@ -1,0 +1,6 @@
+speech_recognition
+pyttsx3
+wikipedia
+pyjokes
+customtkinter
+Pillow

@@ -1,0 +1,2 @@
+- [x] Modify speak() function in main.py to select a voice and add error handling
+- [x] Test the assistant to ensure it speaks on first run
